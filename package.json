@@ -1,6 +1,6 @@
 {
   "name": "three-shaders",
-  "version": "1.0.6",
+  "version": "1.0.7",
   "description": "three-shaders - a library of shaders included with Three.js library",
   "main": "index.js",
   "scripts": {
